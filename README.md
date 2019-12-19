@@ -105,7 +105,7 @@ Le serveur FLASK exécute à chaque fois **MonPotager.py**.
 ### Installer les dépendances et packages
 
 ```
-$ git clone http://pedago-service.univ-lyon1.fr:2325/ttesseraud/projetS1.git
+$ git clone https://github.com/fzsouafi/Projet_S1
 $ cd projetS1
 
 ```
